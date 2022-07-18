@@ -8,7 +8,7 @@
 <a href="https://github.com/methsalvo" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=methsalvo&color=dc143c&label=Ziyaretçi&color=6182e1" alt="methsalvo"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/350976460313329665?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/963211498111504384)
+[![Discord Presence](https://lanyard.cnrad.dev/api/963211498111504384?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/963211498111504384)
 </p>
 
 ## Langauges I Know:
